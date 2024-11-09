@@ -29,14 +29,14 @@ export const PROJECTS = [
     image: project1,
     description:
       "This ERP system integrates inventory tracking, customer data management, and real-time order updates to streamline e-commerce operations efficiently.",
-    technologies: ["HTML", "CSS", "React", "mySQL"],
+    technologies: ["HTML", "CSS", "ReactJS", "MySQL"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "TailwindCSS"],
+    technologies: ["HTML", "CSS", "ReactJS", "TailwindCSS"],
   },
 ];
 
