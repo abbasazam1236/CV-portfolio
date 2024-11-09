@@ -12,14 +12,14 @@ export const EXPERIENCES = [
     role: "Frontend Developer",
     company: "Feusion Tech",
     description: `Designed and developed user interfaces for web applications using React js and TailwindCSS Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "React", "TailwindCSS", "Nodejs", "mySQL"],
+    technologies: ["HTML", "CSS", "React", "TailwindCSS", "Nodejs", "MySQL"],
   },
   {
     year: "2019 - 2021",
     role: " Junior Software Developer",
     company: "Bright Line Solution",
     description: `Contributed to the development of web applications using JavaScript, Reactjs, TailwindCSS, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Reactjs", "JavaScript", "TailwindCSS", "Html", "mySQL"],
+    technologies: ["Reactjs", "JavaScript", "TailwindCSS", "Html", "MySQL"],
   },
 ];
 
